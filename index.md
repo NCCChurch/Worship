@@ -27,8 +27,10 @@
 	<tr>
 		<td><font size="4"><a href="https://nccchurch.github.io/Bibble-Videos/index.html">视频</a></font></td></p>
 	</tr>
-  <tr>
-		<td><font size="4"><a href="https://nccchurch.github.io/Worship/index.html">培训</a></font></td></p>
+        <tr>
+		<td><font size="4"><a href="https://nccchurch.github.io/Holly-Bibble-Study/index.html">圣经通读与讲解</a></font></td></p>
+        </tr>
 </table>
 </p>
 
+               
